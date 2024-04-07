@@ -1,4 +1,4 @@
-drop schema seria_demo;
+drop schema if exists seria_demo;
 create schema seria_demo;
 
 use seria_demo;
